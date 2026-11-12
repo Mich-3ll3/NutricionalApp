@@ -1,0 +1,15 @@
+# Compilados de NetBeans (Ant y Maven)
+build/
+dist/
+target/
+*.class
+
+# Archivos locales de NetBeans
+nbproject/private/
+
+database.properties
+
+# Logs de fallo de la JVM y archivos de sistema
+hs_err_pid*.log
+Thumbs.db
+.DS_Store
